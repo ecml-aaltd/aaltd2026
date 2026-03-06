@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Organizers
 
-* [Anthony Bagnall](https://www.uea.ac.uk/computing/people/profile/anthony-bagnall): University of Southampton, England
+* [Anthony Bagnall](https://www.southampton.ac.uk/people/62tpqc/professor-tony-bagnall): University of Southampton, England
 * [Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim): University College Dublin, Ireland
 * [Ali Ismail-Fawaz](https://github.com/hadifawaz1999): : Université de Haute-Alsace, France
 * [Vincent Lemaire](http://vincentlemaire-labs.fr/): Orange Labs, France
