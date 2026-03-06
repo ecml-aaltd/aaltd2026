@@ -8,10 +8,10 @@ nav_order: 3
 
 * [Anthony Bagnall](https://www.uea.ac.uk/computing/people/profile/anthony-bagnall): University of Southampton, England
 * [Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim): University College Dublin, Ireland
+* [Ali Ismail-Fawaz](https://github.com/hadifawaz1999): : Université de Haute-Alsace, France
 * [Vincent Lemaire](http://vincentlemaire-labs.fr/): Orange Labs, France
 * [Simon Malinowski](http://people.irisa.fr/Simon.Malinowski/): Université de Rennes 1, IRISA, France
 * [Patrick Schäfer](https://www2.informatik.hu-berlin.de/~schaefpa/): Humboldt University of Berlin, Germany
-* [Romain Tavenard](https://rtavenar.github.io/): Université de Rennes 2, IRISA/LETG, France
 
 ## Program committee (TBA)
 
