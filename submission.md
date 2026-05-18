@@ -4,7 +4,7 @@ title: Paper submission
 nav_order: 2.5
 ---
 
-Paper submission is managed through [CMT](https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2026/Submission/Index) (once logged in, make sure the selected track is _AALTD: 11th Workshop on Advanced Analytics and Learning on Temporal Data_).
+Paper submission is managed through [CMT](https://cmt3.research.microsoft.com/ECMLPKDDWT2026/Submission/Index) (once logged in, make sure the selected track is _AALTD: 11th Workshop on Advanced Analytics and Learning on Temporal Data_).
 
 **Submissions will be double-blind (anonymised) and reviewed by at least 2 program committee members.**
 
