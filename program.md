@@ -33,7 +33,7 @@ nav_order: 4
 - **When Does Decomposition Benefit Time Series Forecasting?**  
   Konstantinos Tsikonofilos (Stockholm University)*; Jelena Zdravkovic (Stockholm University); Panagiotis Papapetrou (Stockholm University)
 - **ALSAX: Alternative Empirical SAX for time series symbolic representation**  
-  Damien Porcher (Université de Haute-Alsace)*; Ali Ayadi (Université de Strasbourg); Ali El Hadi Ismail Fawaz (Université de Haute-Alsace); Maxime Devanne (Université de Haute-Alsace); Jonathan Weber (Université de Haute-Alsace); Cédric Wemmert (Université de Strasbourg)
+  Damien Porcher (Université de Haute-Alsace)*; Ali Ayadi (Université de Strasbourg); Ali El Hadi Ismail-Fawaz (Université de Haute-Alsace); Maxime Devanne (Université de Haute-Alsace); Jonathan Weber (Université de Haute-Alsace); Cédric Wemmert (Université de Strasbourg)
 - **Reservoir Computing for Temporal Sequence Learning: Overcoming the Hyperparameter Tuning Bottleneck via Free-Probability Kernels**  
   Sara Malacarne (Telenor); Andrea Ceni (University of Pisa); Claudio Gallicchio (University of Pisa)*
 - **Time Series Extrinsic Regression for a Candidate Fusion Reactor Diagnostic**  
