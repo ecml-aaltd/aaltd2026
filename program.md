@@ -6,7 +6,6 @@ nav_order: 4
 The workshop takes place on Friday 11th of September in Building 1, Via Claudio, Room II2.
 
 ## 10:20–10:30 — Welcome and short introduction by the organisers
-
 ## 10:30–11:30 — Keynote
 
 ## 11:30–12:00 — Poster pitch presentations
