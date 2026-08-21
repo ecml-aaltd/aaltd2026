@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Program
+title: Program (tentative)
 nav_order: 4
 ---
+The workshop takes place on Friday 11th of September in Building 1, Via Claudio, Room II2.
 
-## Tentative Schedule
+## 10:20–10:30 — Welcome and short introduction by the organisers
 
-### 10:20–10:30 — Welcome and short introduction by the organisers
+## 10:30–11:30 — Keynote
 
-### 10:30–11:30 — Keynote
-
-### 11:30–12:00 — Poster pitch presentations
+## 11:30–12:00 — Poster pitch presentations
 _(~4 min each: 1 slide for 2mins pitch + time for turn over)_
 
 - **[130] [Modeling Information Blackouts in Missing Not-At-Random Time Series Data]({{ '/articles/poster/130-poster-AALTD_2026_Modeling_Information_Blackouts_MNAR_CameraReady.pdf' | relative_url }})**  
@@ -34,11 +33,11 @@ _(~4 min each: 1 slide for 2mins pitch + time for turn over)_
 - **[330] [Reservoir Computing for Temporal Sequence Learning: Overcoming the Hyperparameter Tuning Bottleneck via Free-Probability Kernels]({{ '/articles/poster/330-poster-AALTD_paper_camera_version.pdf' | relative_url }})**  
   Sara Malacarne, Andrea Ceni, Claudio Gallicchio
 
-### 12:00–1:30 — Poster session
+## 12:00–1:30 — Poster session
 
-### 1:30–2:30 — Lunch break
+## 1:30–2:30 — Lunch break
 
-### 2:30–4:00 — Oral session 1
+## 2:30–4:00 — Oral session 1
 _(~15 min each, 6 papers: 10mins talk + 3-5mins QA)_
 
 - **[142] [Scaling Time Series Classification via XAI-Driven Data Reduction]({{ '/articles/oral/142-AALTD2026%20Camera%20Ready%20FullPaper.pdf' | relative_url }})**  
@@ -59,9 +58,9 @@ _(~15 min each, 6 papers: 10mins talk + 3-5mins QA)_
 - **[213] [CLARTÉ - Channel-adaptive Lightweight Aggregation for Retrieval and Temporal Explainability]({{ '/articles/oral/213-clarte.pdf' | relative_url }})**  
   Martin Royer, Maxence Gagnant, Martin Gonzalez, Milad Leyli-Abadi
 
-### 4:00–4:30 — Coffee break and poster discussion
+## 4:00–4:30 — Coffee break and poster discussion
 
-### 4:30–6:00 — Oral session 2
+## 4:30–6:00 — Oral session 2
 _(~15 min each, 5 papers: 10mins talk + 3-5mins QA)_
 
 - **[230] [Analysis of Long Short-Term Memory Models Forecasting Performance on Chaotic Systems with Changing Parameters]({{ '/articles/oral/230-LSTM_PERFORMANCE_CHAOTIC_SYSTEMS__CAMERA_READY.pdf' | relative_url }})**  
