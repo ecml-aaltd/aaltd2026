@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Program (tentative)
+title: Program
 nav_order: 4
 ---
 The workshop takes place on Friday 11th of September in Building 1, Via Claudio, Room II2.
