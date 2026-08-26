@@ -4,7 +4,7 @@ title: Invited Talk
 nav_order: 3.5
 ---
 
-# [Assistant Prof Len Feremans](https://www.uhasselt.be/en/who-is-who/len-feremans), Hasselt University, Belgium
+# [Assistant Professor Len Feremans](https://www.uhasselt.be/en/who-is-who/len-feremans), Hasselt University, Belgium
 ![Len Feremans](<Photo_Len_Feremans.png>)
 
 ## BIO
