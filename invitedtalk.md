@@ -4,12 +4,15 @@ title: Invited Talk
 nav_order: 3.5
 ---
 
-# [Assistant Professor Len Feremans](https://www.uhasselt.be/en/who-is-who/len-feremans), Hasselt University, Belgium
+# Temporal Pattern Discovery for Scalable and Interpretable Time Series Analysis
+## [Assistant Professor Len Feremans](https://www.uhasselt.be/en/who-is-who/len-feremans), Hasselt University, Belgium
 ![Len Feremans](<Photo_Len_Feremans.png>)
 
 ## BIO
 I am an Assistant Professor at Hasselt University and a member of the Data Science Institute. My research focuses on data mining and machine learning, with an emphasis on developing fair, explainable, and practically useful AI methods. 
 My main research interests include pattern and motif mining, time series analysis—such as anomaly detection and classification—and recommender systems.
+
+
 
 ## Abstract
 Time series motif discovery and sequential pattern mining study similar questions from different perspectives: how can recurring temporal structure be found efficiently and represented meaningfully?
