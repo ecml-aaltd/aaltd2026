@@ -4,7 +4,7 @@ title: Invited Talk
 nav_order: 3.5
 ---
 
-# Invited Talk: Assistant Prof Len Feremans
+# Assistant Prof Len Feremans, Hasselt University, Belgium
 ![Len Feremans](<Photo_Len_Feremans.png>)
 [website](https://www.uhasselt.be/en/who-is-who/len-feremans)
 
