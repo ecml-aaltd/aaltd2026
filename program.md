@@ -3,12 +3,13 @@ layout: default
 title: Program
 nav_order: 4
 ---
-{% assign invited_talk = site.pages | where: "title", "Invited Talk" | first %}
+{% assign invited_talk = site.pages | where: "name", "invitedtalk.md" | first %}
+{% unless invited_talk %}{% assign invited_talk = site.pages | where: "path", "invitedtalk.md" | first %}{% endunless %}
 The workshop takes place on Friday 11th of September in Building 1, Via Claudio, Room II2.
 
 ## 10:20–10:30 — Welcome and short introduction by the organisers
 ## 10:30–11:30 — Keynote: **Assistant Professor Len Feremans**, Hasselt University, Belgium
-[{{ invited_talk.talk_title }}]({% link invitedtalk.md %})
+[{{ invited_talk.talk_title | default: "Temporal Pattern Discovery for Scalable and Interpretable Time Series Analysis" }}]({% link invitedtalk.md %})
 
 ## 11:30–12:00 — Poster pitch presentations
 _(~4 min each: 1 slide for 2mins pitch + time for turn over)_
