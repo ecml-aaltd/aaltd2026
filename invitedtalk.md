@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Invited Talk
+talk_title: Temporal Pattern Discovery for Scalable and Interpretable Time Series Analysis
 nav_order: 3.5
 ---
 
-# Temporal Pattern Discovery for Scalable and Interpretable Time Series Analysis
+# {{ page.talk_title }}
 ## [Assistant Professor Len Feremans](https://www.uhasselt.be/en/who-is-who/len-feremans), Hasselt University, Belgium
 ![Len Feremans](<Photo_Len_Feremans.png>)
 
