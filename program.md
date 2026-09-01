@@ -3,7 +3,7 @@ layout: default
 title: Program
 nav_order: 4
 ---
-{% assign invited_talk = site.pages | where: "path", "invitedtalk.md" | first %}
+{% assign invited_talk = site.pages | where: "name", "invitedtalk.md" | first %}
 The workshop takes place on Friday 11th of September in Building 1, Via Claudio, Room II2.
 
 ## 10:20–10:30 — Welcome and short introduction by the organisers
