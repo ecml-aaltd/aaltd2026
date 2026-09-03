@@ -83,7 +83,7 @@ nav_order: 3
   </div>
 
   <div class="organizer-card">
-    <img src="{{ '/assets/images/organizers/patrick_schaefer.jpg' | relative_url }}" alt="Patrick Schäfer" />
+    <img src="{{ '/assets/images/organizers/patrick_schaefer.png' | relative_url }}" alt="Patrick Schäfer" />
     <h3><a href="https://www2.informatik.hu-berlin.de/~schaefpa/">Patrick Schäfer</a></h3>
     <p>Humboldt University of Berlin, Germany</p>
   </div>
