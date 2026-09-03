@@ -53,37 +53,37 @@ nav_order: 3
 
 <div class="organizers-grid">
   <div class="organizer-card">
-    <img src="{{ '/assets/images/organizers/anthony-bagnall.jpg' | relative_url }}" alt="Anthony Bagnall" />
+    <img src="{{ '/assets/images/organizers/tony_bagnall.png' | relative_url }}" alt="Anthony Bagnall" />
     <h3><a href="https://www.southampton.ac.uk/people/62tpqc/professor-tony-bagnall">Anthony Bagnall</a></h3>
     <p>University of Southampton, England</p>
   </div>
 
   <div class="organizer-card">
-    <img src="{{ '/assets/images/organizers/georgiana-ifrim.jpg' | relative_url }}" alt="Georgiana Ifrim" />
+    <img src="{{ '/assets/images/organizers/georgiana_ifrim.jpg' | relative_url }}" alt="Georgiana Ifrim" />
     <h3><a href="https://people.ucd.ie/georgiana.ifrim">Georgiana Ifrim</a></h3>
     <p>University College Dublin, Ireland</p>
   </div>
 
   <div class="organizer-card">
-    <img src="{{ '/assets/images/organizers/ali-ismail-fawaz.jpg' | relative_url }}" alt="Ali Ismail-Fawaz" />
+    <img src="{{ '/assets/images/organizers/ali_fawaz.png' | relative_url }}" alt="Ali Ismail-Fawaz" />
     <h3><a href="https://github.com/hadifawaz1999">Ali Ismail-Fawaz</a></h3>
     <p>Université de Haute-Alsace, France</p>
   </div>
 
   <div class="organizer-card">
-    <img src="{{ '/assets/images/organizers/vincent-lemaire.jpg' | relative_url }}" alt="Vincent Lemaire" />
+    <img src="{{ '/assets/images/organizers/vincent_lemaire.jpg' | relative_url }}" alt="Vincent Lemaire" />
     <h3><a href="http://vincentlemaire-labs.fr/">Vincent Lemaire</a></h3>
     <p>Orange Labs, France</p>
   </div>
 
   <div class="organizer-card">
-    <img src="{{ '/assets/images/organizers/simon-malinowski.jpg' | relative_url }}" alt="Simon Malinowski" />
+    <img src="{{ '/assets/images/organizers/simon_malinowski.jpg' | relative_url }}" alt="Simon Malinowski" />
     <h3><a href="http://people.irisa.fr/Simon.Malinowski/">Simon Malinowski</a></h3>
     <p>Université de Rennes 1, IRISA, France</p>
   </div>
 
   <div class="organizer-card">
-    <img src="{{ '/assets/images/organizers/patrick-schaefer.jpg' | relative_url }}" alt="Patrick Schäfer" />
+    <img src="{{ '/assets/images/organizers/patrick_schaefer.jpg' | relative_url }}" alt="Patrick Schäfer" />
     <h3><a href="https://www2.informatik.hu-berlin.de/~schaefpa/">Patrick Schäfer</a></h3>
     <p>Humboldt University of Berlin, Germany</p>
   </div>
