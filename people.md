@@ -89,6 +89,6 @@ nav_order: 3
   </div>
 </div>
 
-## Program committee (TBA)
+## Program committee
 
 The AALTD chairs would like to thank the program committee members who contribute to the quality of the workshop.
