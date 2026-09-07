@@ -23,7 +23,7 @@
       {%- for page in sorted_pages -%}
           {% assign ext = page.url | split:'.' | last %}
           {% if ext != "css" %}
-            <a href="{{ page.url | absolute_url }}" class="btn">{{ page.title }}</a>
+            <a href="{{ page.url | relative_url }}" class="btn">{{ page.title }}</a>
           {% endif %}
       {% endfor %}
       <a href="https://ecmlpkdd.org/2026/" class="btn">ECML-PKDD 2026</a>
