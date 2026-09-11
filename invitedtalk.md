@@ -6,6 +6,7 @@ nav_order: 3.5
 
 # {{ site.data.keynote.talk_title }}
 ## [Assistant Professor Len Feremans](https://www.uhasselt.be/en/who-is-who/len-feremans), Hasselt University, Belgium
+[Slides]({{ '/slides-keynote-aaltd26-lens-feremans.pdf' | relative_url }})
 ![Len Feremans]({{ '/Photo_Len_Feremans.png' | relative_url }})
 
 ## BIO
